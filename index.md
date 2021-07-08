@@ -4,10 +4,10 @@ In this page, I will share my daily literature reading in several quantitative f
 
 #### Statistics
 - <a href="p3">Stat | Credit Scoring via Logistic Regression</a>
+- <a href="p5">Stat | Verification of probability forecasts for football outcomes</a>
 
 #### Finance|Econ
-- 
-
+- <a href="p4">Finance | Robust Deep Hedging</a>
 
 #### Machine Learning
 - <a href="p1">ML | Hindsight Experience Replay</a>
